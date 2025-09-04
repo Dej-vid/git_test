@@ -1,1 +1,1 @@
-This is a test in the foundations section of The Odin Proejct, learning git.
+This is a test in the foundations section of The Odin Project, learning git.
